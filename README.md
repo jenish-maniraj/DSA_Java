@@ -5,4 +5,4 @@ Each file includes a link to the problem + time/space complexity.
 
 Repo layout:
 - Arrays/
-- Strings/
+- Linkedlists/
